@@ -1,0 +1,29 @@
+# Application Name.
+Ian Baraka.
+## Description.
+A web page that displays  peoeple's birthday and displays their username. 
+### Link to live page
+
+
+
+## Technologies used.
+-HTML
+-CSS
+-J.SCRIPT
+
+
+#### Setup/Installation Requirements.
+-Log in your PC and open your Terminal and create a folder.
+-Clone this repo into the folder using command line below
+-git clone(https://barakaian.github.io/user-website/.)
+-Open it in an editor "Atom, VScode" etc.
+-Contribute and push your changes to your repository.
+
+##### Known Bugs.
+There are no bugs recently, but will keep updating the page as times goes by.
+
+###### Licence information
+MIT Licence
+
+####### Copyright
+BarakaIan
