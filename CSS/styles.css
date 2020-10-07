@@ -1,19 +1,6 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 #paragraph {
-    color: white;
+    color: black;
     font-size: larger;
     font-family: helvetica;
 }
@@ -21,7 +8,7 @@
     width: 100px;
 }
 .header {
-    max-width: 100%;
+    max-width: 30%;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -47,14 +34,8 @@ nav {
 .sign-up-form {
     text-align: center;
 }
-.video.page {
-    height: 500px;
-    background-color: black;
-}
-.background-image {
-    height: 800px;
-    background-image: url("https://images.unsplash.com/photo-1486428128344-5413e434ad35?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80");
-}
+
+
 
 /* FOOTER */
 
@@ -151,24 +132,3 @@ ul {
     margin: 0.125rem 0.625rem;
     white-space: nowrap;
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
